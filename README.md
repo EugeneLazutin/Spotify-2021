@@ -1,15 +1,3 @@
-# 🚀 Welcome to your new awesome project!
+To start devServer run ```npm run server```
 
-This project has been created using **webpack-cli**, you can now run
-
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
+don't forget to npm install
